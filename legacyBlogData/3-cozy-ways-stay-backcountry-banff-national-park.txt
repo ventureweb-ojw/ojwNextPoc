@@ -1,0 +1,55 @@
+---
+url: 3-cozy-ways-stay-backcountry-banff-national-park
+title: Cozy ways to stay in the Backcountry of Banff National Park
+date: 12/15/2016
+img: https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/sundance_lodge.jpg?itok=G19VV50i
+---
+<div><p>Accommodation styles have evolved a lot in the past century, but in Banff National Park, three lodges have stayed true to the way early explorers found rest in the backcountry. Albeit, a bit more luxurious than back in the day, but nonetheless, still cozy and quaint.<br/>
+<br/>
+Banff National Park is home to backcountry lodges that are open in the summer and winter, each one offering a different twist than the other, and even a different mode of winter transportation to get in if you choose. Each welcome you with a crackling fire, hot drinks, and fresh baking - they have different characteristics that define them, including the chefs and lodge-hands, but they all share common ground in tranquillity. </p>
+<h4>Sundance Lodge</h4>
+<p>Working our way west from the Town of Banff, <a data-gtm_category="Accommodation" data-gtm_event_value="1" data-gtm_label="Sundance Lodge" data-gtm_subcategory="Backcountry Lodges" data-gtm_trigger="website" data-memberid="2600" href="http://horseback.com/package/winter-sundance/">Sundance Lodge</a> is first – nestled in the Brewster Creek valley on the other side of the Sulphur Mountain Range, this lodge is the only one accessible by fat bike in winter, but can also be accessed by cross-country skis and snowshoes and by horseback in summer. Starting from either the Cave &amp; Basin on the Sundance Canyon Trail, or at Healy Creek on the Sunshine Village Access Road, the trail leading up to this lodge follows a former fire access road and is a steady incline on the way in, and a beautiful decline on the way out. Fat biking in will cut your travel time dramatically, but all offer beautiful views and a real feeling of being in the backcountry. Once you arrive at the lodge, kick off your boots, enjoy the warm fire, and relax in this modern lodge with hot showers and flushing toilets. You'll be charmed and entertained by the chef and locals who run the lodge, and like all the backcountry lodges in Banff National Park, you'll be pleasantly surprised by the culinary offerings they have in the middle of nowhere.</p>
+<div class="embed embed--slideshow">
+<div class="node node-slideshow" data-allterms="" id="Node-778">
+<div class="flexslider num-items-3 slideshow-slides"><ul class="slides"><li><div class="slide-contents slide-has-content">
+<div class="file file-image file-image-jpeg" id="file-1399">
+<div class="content">
+<img alt="Sundance Lodge, Banff National Park" class="lazyload" data-src="/sites/default/files/winter_shadow_lake_lodge_banff_2016_a._v._wakefield_2.jpg" height="1335" title="Sundance Lodge in Banff National Park" width="2000"/> </div>
+</div>
+<div class="slide-intro"><div class="slide-intro__credit"><div class="photographer">A. V. Wakefield</div></div></div></div></li><li><div class="slide-contents slide-has-content">
+<div class="file file-image file-image-jpeg" id="file-1400">
+<div class="content">
+<img alt="Sundance Lodge, Banff National Park" class="lazyload" data-src="/sites/default/files/winter_shadow_lake_lodge_banff_2016_a._v._wakefield_3.jpg" height="1335" title="Sundance Lodge in Banff National Park" width="2000"/> </div>
+</div>
+<div class="slide-intro"><div class="slide-intro__credit"><div class="photographer">A. V. Wakefield</div></div></div></div></li><li><div class="slide-contents slide-has-content">
+<div class="file file-image file-image-jpeg" id="file-1398">
+<div class="content">
+<img alt="Sundance Lodge, Banff National Park" class="lazyload" data-src="/sites/default/files/winter_shadow_lake_lodge_banff_2016_a._v._wakefield_1.jpg" height="1335" title="Sundance Lodge in Banff National Park" width="2000"/> </div>
+</div>
+<div class="slide-intro"><div class="slide-intro__credit"><div class="photographer">A. V. Wakefield</div></div></div></div></li></ul></div>
+</div>
+</div>
+<h4>Skoki Lodge</h4>
+<p>Lastly, in the Lake Louise backcountry, the historic <a data-gtm_category="Accommodation" data-gtm_event_value="1" data-gtm_label="Skoki Lodge" data-gtm_subcategory="Backcountry Lodges" data-gtm_trigger="website" data-memberid="2057" href="http://www.skoki.com">Skoki Lodge</a> sits nestled in the Skoki Valley. The Lodge was founded by the Ski Club of the Canadian Rockies and is said to be the first lodge to cater to skiers in Canada, and possibly North America. The journey in starts at Lake Louise Ski Resort and winds through dramatic landscapes and dominating mountains. The original lodge features historic photos and ski equipment throughout the log facility. A famous summer visit by Prince William and Kate in 2011 garnered a lot of attention for Skoki, but like the other lodges, winter is just as a beautiful time to visit. Skoki differs from the other lodges in that is primarily a ski lodge in winter, catering to some of the best alpine touring in the area. Skoki is also known for its backcountry culinary, but more so with their very own Skoki Cookbook. Cozy up by the fire after an active day in the mountains and enjoy hot drinks, a warm fire, and the library of history in the common area. <br/>
+ </p>
+<div class="embed embed--slideshow">
+<div class="node node-slideshow" data-allterms="" id="Node-779">
+<div class="flexslider num-items-2 slideshow-slides"><ul class="slides"><li><div class="slide-contents slide-has-content">
+<div class="file file-image file-image-jpeg" id="file-1382">
+<div class="content">
+<img alt="Skoki Lodge, Banff National Park" class="lazyload" data-src="/sites/default/files/skoki_mike_byrne_photo.jpg" height="1333" title="Skoki Lodge in Winter, Banff National Park" width="2000"/> </div>
+</div>
+<div class="slide-intro"><div class="slide-intro__credit"><div class="photographer">Mike Byrne</div></div></div></div></li><li><div class="slide-contents slide-has-content">
+<div class="file file-image file-image-jpeg" id="file-1383">
+<div class="content">
+<img alt="Skoki Lodge, Banff National Park" class="lazyload" data-src="/sites/default/files/skoki_lodge_photo-mike_byrne_1.jpg" height="1671" title="Skoki Lodge, Banff National Park" width="2507"/> </div>
+</div>
+<div class="slide-intro"><div class="slide-intro__credit"><div class="photographer">Mike Byrne</div></div></div></div></li></ul></div>
+</div>
+</div>
+<p>If you're looking for a cozy lodge in the backcountry to kick off your boots and put on some slippers, look no further than the three backcountry lodges in Banff National Park. A welcoming fire and great food, company in the form of family, friends, or a romantic getaway with your partner, and an off the grid experience at one of these backcountry lodges might just be the digital detox you've been looking for. </p>
+<p><br/>
+For a wide selection of winter adventure rentals check out: <a data-gtm_category="Retail" data-gtm_event_value="1" data-gtm_label="Wilson Mountain Sports" data-gtm_subcategory="Sporting goods &amp; Apparel" data-gtm_trigger="website" data-memberid="2467" href="http://www.wmsll.com">Wilson Mountain Sports</a> in Lake Louise or <a data-gtm_category="Retail" data-gtm_event_value="1" data-gtm_label="Snowtips-Bactrax Ski &amp; Bike Rental" data-gtm_no_track="N" data-gtm_subcategory="Sporting goods &amp; Apparel" data-gtm_trigger="website" data-memberid="2063" href="http://www.snowtips-bactrax.com">Snowtips-Bactrax</a> in Banff.</p>
+<p><br/>
+ </p>
+</div>
