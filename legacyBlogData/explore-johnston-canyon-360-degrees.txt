@@ -1,0 +1,12 @@
+---
+url: "explore-johnston-canyon-360-degrees"
+title: "Explore Johnston Canyon in 360 Degrees"
+date: 02/22/2018
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/lead/moment/winter_johnston-canyon_destination-canada-3_web.jpg?itok=UBDMZKia"
+---
+<div><p>Exploring the thundering falls and icy cliffs of <a href="/johnston-canyon">Johnston Canyon</a> make this classic winter hike a must-do experience for every visit to Banff National Park. </p>
+<p>The trailhead is located just east of Castle Junction on the Bow Valley Parkway (Hwy-1A). From there, hike 2.5 km (one-way) to the upper falls or 1.2 km (one-way) to the lower falls. Leave yourself about two hours to complete the loop and to give yourself plenty of time for photos. </p>
+<p>Joining a guided ice walk is an amazing way to learn all about the history of this natural wonder. For a different perspective, consider joining a night excursion. Tours are offered by <a data-gtm_category="Activities" data-gtm_event_value="120.0000" data-gtm_label="Discover Banff Tours" data-gtm_no_track="N" data-gtm_subcategory="Sightseeing &amp; Tours" data-gtm_trigger="website" data-memberid="2380" href="https://padlock.link/ih77" target="_blank">Discover Banff Tours</a> and <a data-gtm_category="Activities" data-gtm_event_value="1" data-gtm_label="White Mountain Adventures" data-gtm_no_track="N" data-gtm_subcategory="Outdoor Recreation" data-gtm_trigger="website" data-memberid="2458" href="https://www.whitemountainadventures.com/johnston-canyon-icewalk" target="_blank">White Mountain Adventures</a>.</p>
+<p>In the meantime, strap on a pair of cleats and join us on a 360 degree walk-through tour of Johnston Canyon Lower Falls. Use your mouse or (swipe around on your mobile) to explore the area. Click on waypoints to move throughout the canyon.</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ganlNVLIxe4" width="560"></iframe></p>
+</div>

@@ -1,0 +1,29 @@
+---
+url: "local-expert-kat-c"
+title: "Local Expert Kat C"
+date: 03/04/2020
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/lead/cta/kat_c_vc_image.jpg?itok=7xeBZgTU"
+---
+<div><h5>What’s your best off-the-beaten-path tip, secret ski spot, or lesser-known hiking trail in Banff and Lake Louise? </h5>
+<p>Canoeing or kayaking up the Bow River to Vermilion Lakes, a beautiful paddle with amazing views. It’s a fairly easy choice with an awesome payoff, and on the way back to the dock you are riding with the current! It’s often a good place to see wildlife as well</p>
+<h5>What is something that most people don’t know about Banff and Lake Louise?</h5>
+<p>Cave and Basin National Historic Site is the birthplace of Canada’s first national park, and you can go visit it for yourself. This is where three explorers stumbled down through the roof of a hot spring cave over 100 years ago and instantly recognized it was something special. </p>
+<h5>Any foodie tips for hungry travellers?</h5>
+<p>The Buffalo Chicken Sandwich at Banff Ave Brewing is one of my favourite meals in Banff!  Don’t forget to pair it with one of their craft beers, made on-site. </p>
+<h5>What is the question that you get asked most at the Visitor Centre? </h5>
+<p>Q: When is the best time to go to Lake Lousie? <br/>
+A: Anytime when you hop on the Roam Bus from Banff to Lake Louise. Sit back, relax, and enjoy the view and get dropped off right at the lakeshore. The lake is stunning at all times of the year. </p>
+<h5>What’s your favourite thing about living in Banff National Park?</h5>
+<p>The endless list of activities and places to explore within the Park, every year my “to do list” gets longer. It’s filled with hikes, paddles, overnight camping trips, restaurants and ski runs. </p>
+<h5>What kind of activities do you do on your days off? Why those particular activities?</h5>
+<p>In winter I enjoy skiing and skating/playing hockey on the local rink. In summer I spend most of my time mountain biking or on the water canoeing, rafting, or kayaking! </p>
+<h5>If you had just one more day in Banff and Lake Louise, what would you do?</h5>
+<p>Go for a morning walk up Tunnel Mountain, followed by brunch on a patio in town. For the afternoon I would canoe along the Bow River and have a picnic on the river bank for dinner!</p>
+<h5>What item would you recommend someone to pack for their visit?</h5>
+<p>A camera! Around every corner, you will be surprised with a new view, and possibly even some wildlife. In Banff it is easy to capture a “desktop background” worthy photo, even on your cell phone. The photos you take will leave you with memories for years to come.</p>
+<h4>VIRTUAL VISITOR CENTRE</h4>
+<p>Plan ahead before you visit us in Banff and Lake Louise. Our local experts are here to inspire you seven days a week from 9 a.m. - 5 p.m.</p>
+<p>Email: <a href="mailto:mailto:info@banfflakelouise.com?subject=COVID-19%20Information%20Page">info@banfflakelouise.com</a>  </p>
+<p><strong>Telephone:</strong> <a data-gtm_category="Trip Planning" data-gtm_label="VC" data-gtm_subcategory="Visitor Centres" data-gtm_trigger="bllt_telephone" href="tel:403-762-8421">403-762-8421</a> or toll free <a href="tel:877-762-8421">877-762-8421</a></p>
+<p>*Hours are subject to change without notice. UTC - 7 Mountain Time.</p>
+</div>

@@ -1,0 +1,29 @@
+---
+url: "local-expert-jess"
+title: "Local Expert Jess"
+date: 06/15/2020
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/jess_tunnel_mountain.jpg?itok=3k5exlmg"
+---
+<div><h5>What’s your best off-the-beaten-path tip, secret ski spot, or lesser-known hiking trail in Banff and Lake Louise?</h5>
+<p>I’m learning to love mountain biking, so Goat Creek is one of my favourite rides in the summer! The scenery is beautiful and the trail is nice and wide – perfect for biking and hiking. When winter arrives, cross-country skiers take on this trail as a unique commute to Banff (I’m excited to try this mode of transport!).</p>
+<h5>What is something that most people don’t know about Banff and Lake Louise?</h5>
+<p>A “Park Pass” is a fee required for anyone to explore and enjoy the National Park – it actually hasn’t got much to do with “parking” at all (public parking is free in the National Park)! The amount collected is re-invested into protecting our wildlife (with incentives such as building wildlife fences and under/overpasses along the highways), maintaining trails and day-use areas, and public safety. I would recommend purchasing your pass <a href="/park-pass-purchase">online </a>ahead of time to ensure a smooth process when entering the park.</p>
+<h5>Any foodie tips for hungry travellers?</h5>
+<p>Visit the Taxi Mike website - it’s the Banff foodie’s encyclopedia. My favourite section is the Happy Hour specials.</p>
+<h5>What is the question that you get asked most at the Visitor Centre?</h5>
+<p>“How can I see a bear?” – a question I wish I could give a guaranteed answer to! I always recommend getting in touch with some of our awesome local tour operators who are familiar with wildlife hotspots. For example, Discover Banff Tours offer an entire experience called “Banff and its Wildlife”. Remember that if you do see a wild animal, admire them from a respectful distance.</p>
+<h5>What’s your best tip for people planning a visit to Banff and Lake Louise?</h5>
+<p>While it’s important to plan ahead, it’s also great to have conversations with the local people to learn about the town. We are so passionate about where we live and love to share our unique experiences and insight with you.</p>
+<h5>What’s your favourite thing about living in Banff National Park?</h5>
+<p>I really appreciate the variety of outdoor activities for people of all skill levels. I arrived in the Bow Valley with little experience or interest in the outdoors, but with so much to explore at my doorstep, it’s easy to get a taste for it and to progress at my own leisure without ever being bored.</p>
+<h5>What kind of activities do you do on your days off? Why those particular activities?</h5>
+<p>On my days off in the winter, you’ll find me snowboarding at one of the local ski hills. In the summer I’ll be out hiking, camping or biking. I love these activities because they allow me to have awe-inspiring moments with my friends who always encourage me to explore and be challenged often!</p>
+<h5>If you had just one more day in Banff and Lake Louise, what would you do?</h5>
+<p>See how many perspectives you can get on this spectacular corner of the Earth! If you’ve been spending time immersing yourself in the town of Banff, elevate it by visiting the Mount Norquay lookout or the Banff Gondola (or for a true bird’s eye view, talk to Alpine Heli who offer unforgettable helicopter tour experiences).</p>
+<p>Mount Rundle features that ferocious flat edge, but have you seen it during sunrise or sunset from Vermillion Lakes or Cascade Ponds? If you’re up for the challenge, hike. </p>
+<h4>VIRTUAL VISITOR CENTRE</h4>
+<p>Plan ahead before you visit us in Banff and Lake Louise. Our local experts are here to inspire you seven days a week from 9 a.m. - 5 p.m.</p>
+<p>Email: <a href="mailto:mailto:info@banfflakelouise.com?subject=COVID-19%20Information%20Page">info@banfflakelouise.com</a>  </p>
+<p><strong>Telephone:</strong> <a data-gtm_category="Trip Planning" data-gtm_label="VC" data-gtm_subcategory="Visitor Centres" data-gtm_trigger="bllt_telephone" href="tel:403-762-8421">403-762-8421</a> or toll free <a href="tel:877-762-8421">877-762-8421</a></p>
+<p>*Hours are subject to change without notice. UTC - 7 Mountain Time.</p>
+</div>

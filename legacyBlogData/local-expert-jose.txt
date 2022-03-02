@@ -1,0 +1,32 @@
+---
+url: "local-expert-jose"
+title: "Local Expert Jose"
+date: 03/01/2020
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/lead/cta/jose_emerald_ski.jpg?itok=uxEtCh1b"
+---
+<div><h5>What’s your best off-the-beaten-path tip, secret ski spot, or lesser-known hiking trail in Banff and Lake Louise? </h5>
+<p>You don’t have to go too far to find this lovely trail right in Lake Louise. The Bow River loop is an easy walk or bike ride in the summer, and a lovely cross-country ski in winter. This trail follows the river and it is very peaceful and offers amazing views of Mount Temple as well. </p>
+<h5>What is something that most people don’t know about Banff and Lake Louise?</h5>
+<p>I love the month of April, and most people don’t realize that it’s an incredible time to be in Banff National Park. You can downhill ski at one of the ski resorts, cross-country ski in perfect spring conditions and at the same time walk or bike around the town of Banff. </p>
+<h5>Any foodie tips for hungry travellers?</h5>
+<p>I love sitting on a patio with friends, enjoying an appetizer with a nice glass of white wine, especially after a nice walk or hike. The Baker Creek Bistro has a lovely patio and it’s just a bit off the beaten track on the Bow Valley Parkway.</p>
+<h5>What is the question that you get asked most at the Visitor Centre? </h5>
+<p>Q. I am here to visit Lake Louise and Moraine Lake. How do I get there?<br/>
+A. Check out the public transit options. Roam transit can take you from Banff or the Lake Louise village to the lakeshore! Otherwise, booking a tour is another great option that also includes knowledgeable guides.</p>
+<h5>What’s your best tip for people planning a visit to Banff and Lake Louise?</h5>
+<p>Plan ahead! Reach out to us at the Banff and Lake Louise Visitor Centres before your trip. Our local team is happy to assist you with your trip planning.</p>
+<h5>What’s your favourite thing about living in Banff National Park?</h5>
+<p>The abundance of space, nature, silence and wildlife (I grew up in the Netherlands and was always dreaming about this).</p>
+<h5>What kind of activities do you do on your days off? Why those particular activities?</h5>
+<p>In the summer, I love road biking and hiking as well as reading a good book near the creek – yin and yang.</p>
+<p>During winter I do a lot of cross-country skiing; Emerald Lake is my favourite. It is magical on a fresh tracked trail with trees covered in snow, and nobody around. You can go as fast or slow as you want, by yourself or with your family and friends, and squeeze in an hour or linger for a full day. There are so many options. All you need are your skis, poles, boots and a well-filled pack with snacks and tea. </p>
+<h5>If you had just one more day in Banff and Lake Louise, what would you do?</h5>
+<p>I would hike into Skoki Lodge!  I used to work at this backcountry lodge and have spent many days exploring this beautiful area.</p>
+<h5>What item would you recommend someone to pack for their visit?</h5>
+<p>Good boots and layers, layers, layers. It can get chilly in the early morning and evening, even in the height of summer. I don’t go anywhere without my light down jacket. It allows you to spend most of your evening outside comfortably. </p>
+<h4>VIRTUAL VISITOR CENTRE</h4>
+<p>Plan ahead before you visit us in Banff and Lake Louise. Our local experts are here to inspire you seven days a week from 9 a.m. - 5 p.m.</p>
+<p>Email: <a href="mailto:mailto:info@banfflakelouise.com?subject=COVID-19%20Information%20Page">info@banfflakelouise.com</a>  </p>
+<p><strong>Telephone:</strong> <a data-gtm_category="Trip Planning" data-gtm_label="VC" data-gtm_subcategory="Visitor Centres" data-gtm_trigger="bllt_telephone" href="tel:403-762-8421">403-762-8421</a> or toll free <a href="tel:877-762-8421">877-762-8421</a></p>
+<p>*Hours are subject to change without notice. UTC - 7 Mountain Time.</p>
+</div>

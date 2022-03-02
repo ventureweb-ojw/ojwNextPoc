@@ -1,0 +1,25 @@
+---
+url: "local-expert-delaney"
+title: "Local Expert Delaney"
+date: 05/10/2020
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/delaney_ice_climbing.jpeg?itok=XDAKv97X"
+---
+<div><h5>What’s your best off-the-beaten-path tip, secret ski spot, or lesser-known hiking trail in Banff and Lake Louise? </h5>
+<p>When hiking Mt. Bourgeau many hikers will travel as far as Bourgeau Lake. If you continue about 2 km further you reach Harvey Pass which offers stunning mountain views along the Continental Divide! You also pass several beautiful lakes and fields of wildflowers. It is better suited to more experienced hikers as it can be a difficult and somewhat technical hike but the effort is well worth the reward.  </p>
+<h5>What is something that most people don’t know about Banff and Lake Louise?</h5>
+<p>Most people do not realize that here in Banff National Park the wildlife really is wild. Although we offer tips and suggestions for popular wildlife viewing areas it is never a guarantee as they tend to move around. Part of the fun in spotting wildlife in the park is the fact that it can happen at the most unexpected times. Since it is not necessarily a guarantee, spotting our wild neighbours is that much more special when it does happen!</p>
+<h5>Any foodie tips for hungry travellers?</h5>
+<p>Park Distillery offers a unique dining opportunity including locally sourced “campfire-inspired cooking” and cocktails featuring spirits distilled in-house. The restaurant offers a cozy atmosphere as well as a small patio section that is perfect for warm summer days! They are also flexible, offering a plant-based menu as well as a gluten free beer list. Following your meal you could even enjoy a free distillery tour!</p>
+<h5>What is the question that you get asked most at the Visitor Centre? </h5>
+<p>One of the most frequent questions at the Visitor Centre is how to find the popular, picture-perfect sights often found on postcards. These viewpoints are iconic for a reason, and are definitely worth a visit. However, there are so many other beautiful locations throughout the National Park that I am happy to recommend, whether you are looking for a beautiful blue lake, an awe-inspiring view of the mountains, or even a perfect spot to watch the sunrise/sunset.</p>
+<h5>What’s your best tip for people planning a visit to Banff and Lake Louise?</h5>
+<p>As Banff National Park is such a popular destination, planning ahead is definitely key (and we are more than happy to assist with that at the Visitor Centre). However, I think it is equally important to leave room for flexibility in your plans. This stunning destination tends to surprise people and there are always opportunities to find new paths to explore and new awe-inspiring sights to delight and surprise you. I think it’s key to stay open to changes – whether the mountain weather is not cooperating or if you choose to avoid the crowds and visit a hidden gem. It’s ok to change your plans!</p>
+<h5>What’s your favourite thing about living in Banff National Park?</h5>
+<p>One of my favourite things about living in Banff National Park is the chance to meet so many people from all over the world. Whether I am interacting with visitors, long time locals, or new residents to the area there is always such a diverse population within the National Park. I love learning about where everyone is visiting from!</p>
+<h5>What kind of activities do you do on your days off? Why those particular activities?</h5>
+<p>One of the best parts of living in Banff National Park is the chance to experience so many different adventures. I try to do as much as possible on my days off and to try every activity available at least once. This winter I learned how to cross-country ski and I even ventured into ice climbing! During the summer months I aim to discover new hiking trails and this summer I’m hoping to master paddle boarding. </p>
+<h5>If you had just one more day in Banff and Lake Louise, what would you do?</h5>
+<p>Spending a day on the Icefield Parkway can offer something for everyone! This stunning scenic drive offers an opportunity to visit mountains, lakes, glaciers, waterfalls, and canyons. There are plenty of viewpoints to stop at and even some short hikes and walking trails to enjoy along the way. </p>
+<h5>What item would you recommend someone to pack for their visit?</h5>
+<p>As the weather in the mountains can be so unpredictable I recommend plenty of layers. In particular, a waterproof and windproof layer are key! This is especially true if you plan to hike during your visit.</p>
+</div>

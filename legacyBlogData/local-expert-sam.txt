@@ -1,0 +1,31 @@
+---
+url: "local-expert-sam"
+title: "Local Expert Sam"
+date: 04/01/2020
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/sam_hiking.jpg?itok=h-3gxXWW"
+---
+<div><h5>What’s your best off-the-beaten-path tip, secret ski spot, or lesser-known hiking trail in Banff and Lake Louise?  </h5>
+<p>Bow Glacier Falls is a fantastic hike, it starts from Bow Lake and you hike along an easy-to-follow trail until you reach the base of the falls. The spray from the falls is the ultimate way to cool down on a warm summer day. Keep an eye out for cheeky marmots along the trail.  </p>
+<h5>What is something that most people don’t know about Banff and Lake Louise?  </h5>
+<p>The daylight hours are really long in the summer time. Exploring early in the day or late in the evening can make for some of the best experiences.</p>
+<h5>Any foodie tips for hungry travellers?  </h5>
+<p>The Juniper Bistro is a must for any brunch enthusiast. The views from the patio are incredible and the food is even better! My favourite is the grilled avocado.</p>
+<h5>What is the question that you get asked most at the Visitor Centre?</h5>
+<p>Q: Where can I go to see wildlife? A: Jump on an evening wildlife tour with Discover Banff Tours and let your experienced guide take you to some of the wildlife hot spots in and around the town of Banff. Alternatively take a ride up the Lake Louise Summer Sightseeing Gondola, grizzlies and other wildlife can often be spotted roaming the slopes below the sightseeing lift. </p>
+<h5>What’s your best tip for people planning a visit to Banff and Lake Louise?</h5>
+<p>Visit car free in the summertime. My personal favourite mode of transit is a bike, there’s no better feeling than breathing in the fresh mountain air while cycling through breathtaking scenery. Pack a picnic and make a day of it riding the Minnewanka loop, don’t forget to stop at Cascade Ponds, Johnson Lake, Two Jack Lake and Lower Bankhead. </p>
+<p>If biking isn’t your thing, there are also a number of public transit and tour options that you can use to visit popular locations like Lake Louise.</p>
+<h5>What’s your favourite thing about living in Banff National Park?</h5>
+<p>The endless photo opportunities! I’m crazy about capturing reflections in the lakes and I love to head out early morning to places like Vermilion Lakes, Two Jack Lake, Emerald Lake and Bow Lake.</p>
+<h5>What kind of activities do you do on your days off? Why those particular activities?</h5>
+<p>Hiking, hiking and some more hiking! I absolutely love to hike and will spend every spare minute I have hiking. I’m happy with any type of hike no matter the difficulty but I do particularly enjoy hikes that include steep terrain and rocky ridge lines in the summer and hikes to frozen waterfalls in the winter.</p>
+<h5>If you had just one more day in Banff and Lake Louise, what would you do?</h5>
+<p>If you’ve only got one day, why not make it the best day ever? I’d take a heli-hiking trip to explore a remote part of the Rockies I wouldn’t otherwise be able to access.   </p>
+<h5>What item would you recommend someone to pack for their visit?  </h5>
+<p>Comfy walking/ hiking shoes. Whether hiking a summit or taking a relaxing stroll along the Bow River Trail, you’re going to want your shoes to be comfortable.</p>
+<h4>VIRTUAL VISITOR CENTRE</h4>
+<p>Plan ahead before you visit us in Banff and Lake Louise. Our local experts are here to inspire you seven days a week from 9 a.m. - 5 p.m.</p>
+<p>Email: <a href="mailto:mailto:info@banfflakelouise.com?subject=COVID-19%20Information%20Page">info@banfflakelouise.com</a>  </p>
+<p><strong>Telephone:</strong> <a data-gtm_category="Trip Planning" data-gtm_label="VC" data-gtm_subcategory="Visitor Centres" data-gtm_trigger="bllt_telephone" href="tel:403-762-8421">403-762-8421</a> or toll free <a href="tel:877-762-8421">877-762-8421</a></p>
+<p>*Hours are subject to change without notice. UTC - 7 Mountain Time.</p>
+</div>

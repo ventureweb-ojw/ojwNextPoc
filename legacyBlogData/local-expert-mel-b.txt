@@ -1,0 +1,30 @@
+---
+url: "local-expert-mel-b"
+title: "Local Expert Mel B"
+date: 03/03/2020
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/ll_big_beehive_me.jpg?itok=9StOq5Hi"
+---
+<div><h5>What’s your best off-the-beaten-path tip in Banff and  Lake Louise? </h5>
+<p>Rockbound Lake, located on the Bow Valley Parkway. This little gem is considered a moderate trail, but I find that it’s not too popular. The best part is when you get through the toughest section and are rewarded with amazing views of sheer rock faces. </p>
+<h5>What is something that most people don’t know about Banff and Lake Louise?</h5>
+<p>People don’t realize that the town of Banff and Lake Louise actually fall within Banff National Park. This is quite unique for a national park, as most parks don’t have towns and communities within them.</p>
+<h5>Any foodie tips for hungry travellers?</h5>
+<p>If you’re in Lake Louise, check out the buffet breakfast at the Lake Louise Gondola! The prices for lunch and a sightseeing trip are amazing! You essentially get a free meal. What’s better is you can leave the car at the gondola and get the free shuttle bus to the actual lake.</p>
+<h5>What is the question that you get asked most at the Visitor Centre? </h5>
+<p>People always want to know where the best place to eat is. This is such a hard question as there are so many amazing options in Banff and Lake Louise and even resorts and lodges on the outskirts. So if you’re asking the questions, always come with cuisine in mind and how far you want to travel to help narrow things down. </p>
+<h5>What are your best tips for people planning a visit to Banff and Lake Louise?</h5>
+<p>Book your accommodation well in advance if you’re planning to visit during the popular times of the year. You don’t need a car to explore the park if you’re wanting to visit the main sites, we have Roam Transit or Parks Canada shuttles that can get you around. If you’re wanting to visit Moraine Lake and Lake Louise in the summer, be sure to research your options, where it’s a combination of Roam Transit and Parks Canada Shuttles, or driving and Parks Canada shuttles, or otherwise jumping on a tour with one of the local guides.</p>
+<h5>What’s your favourite thing about living in Banff National Park?</h5>
+<p>Hiking! The endless trails that are available and the fact that you can access so many all year round. The beauty in summer of the meadows full of wildflowers, and the fairy tale wonderland in the winter.</p>
+<h5>What kind of activities do you do on your days off? Why those particular activities?</h5>
+<p>You may have already guessed this, but hiking is what I do on my days off. There are so many trails available that you can hike two trails every week and it would still take you forever to do them all. I also love sitting by the Bow River with friends, or even floating down the Bow River. Another favourite activity would be enjoying a drink on an outdoor patio in the summer, soaking up the mountain views.</p>
+<h5>If you had just one more day in Banff and Lake Louise, what would you do?</h5>
+<p>If it was in winter, I would try some ice climbing with a professional guide. If it was fall, I’d hike Taylor Lake. If we’re talking summer, I’d canoe on Moraine Lake and in spring, I’d bike ride to the Vermilion Lakes road, sit on the pontoon and relax.</p>
+<h5>What item would you recommend someone to pack for their visit?</h5>
+<p>As the weather is so unpredictable in the mountains, I would recommend bringing a raincoat and warm clothing. </p>
+<h4>VIRTUAL VISITOR CENTRE</h4>
+<p>Plan ahead before you visit us in Banff and Lake Louise. Our local experts are here to inspire you seven days a week from 9 a.m. - 5 p.m.</p>
+<p>Email: <a href="mailto:mailto:info@banfflakelouise.com?subject=COVID-19%20Information%20Page">info@banfflakelouise.com</a>  </p>
+<p><strong>Telephone:</strong> <a data-gtm_category="Trip Planning" data-gtm_label="VC" data-gtm_subcategory="Visitor Centres" data-gtm_trigger="bllt_telephone" href="tel:403-762-8421">403-762-8421</a> or toll free <a href="tel:877-762-8421">877-762-8421</a></p>
+<p>*Hours are subject to change without notice. UTC - 7 Mountain Time.</p>
+</div>

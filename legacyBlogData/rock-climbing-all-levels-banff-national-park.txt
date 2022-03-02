@@ -1,0 +1,47 @@
+---
+url: "rock-climbing-all-levels-banff-national-park"
+title: "Rock Climbing For All Levels In Banff National Park"
+date: 04/26/2018
+img: "https://www.banfflakelouise.com/sites/default/files/styles/l_1600_natural/public/mountaineering-climbing-chateau-banff-alberta.jpg?itok=_GTciNeL"
+---
+<div><p>From its limestone spires to quartzite cliffs, Banff National Park beckons climbers to test their limits in the vertical world. Whether you’re dipping your fingers into chalk for the first time or you’ve already scaled your fair share of difficult routes, in Banff you’ll find a number of options at your fingertips. Here is just a sampling to get you stoked on what’s available.</p>
+<p>Notes: With the right companions, the proper gear and correct usage of that gear, sport climbing (using fixed protection) can be a safe activity. Venture out only if you have confidence in your skills and rope mates – otherwise, hire a guide to make your climbing safe and enjoyable! Any difficult grades or trad climbs listed below should only be attempted by experienced climbers or those accompanied by a certified guide. </p>
+<p>Looking for a guide? Check out the <a href="http://www.acmg.ca/">Association of Canadian Mountain Guides</a>, <a data-gtm_category="Activities" data-gtm_event_value="1" data-gtm_label="Yamnuska Mountain Adventures" data-gtm_no_track="N" data-gtm_subcategory="Outdoor Recreation" data-gtm_trigger="website" data-memberid="2472" href="http://www.yamnuska.com" target="_blank">Yamnuska Mountain Adventures</a> or <a data-gtm_category="Activities" data-gtm_event_value="1" data-gtm_label="Alpine Air Adventures" data-gtm_no_track="N" data-gtm_subcategory="Outdoor Recreation" data-gtm_trigger="website" data-memberid="2807" href="http://alpineairadventures.com/" target="_blank">Alpine Air Adventures. </a></p>
+<h4>GREAT STARTING POINTS</h4>
+<p>Beginner climbers will find the most suitable routes in larger cragging areas that feature a number of climbs at different grade levels. Look for routes graded 5.5 - 5.8 to provide you with the easiest lines. </p>
+<p><strong>Climbing Gym at Sally Borden Fitness and Recreation</strong></p>
+<p>This indoor facility at <a data-gtm_category="Activities" data-gtm_event_value="1" data-gtm_label="Banff Centre For Arts And Creativity" data-gtm_no_track="N" data-gtm_subcategory="Arts, Culture &amp; Heritage" data-gtm_trigger="website" data-memberid="2601" href="https://www.banffcentre.ca/climbing-gym" target="_blank">Banff Centre for Arts and Creativity</a> features routes of varying difficulty, as well as offers courses and on-site gear rentals. </p>
+<p><strong>Mt Norquay's Via Ferrata </strong></p>
+<p>For something between proper rock climbing and the gym, <a data-gtm_category="Activities" data-gtm_event_value="250.0000" data-gtm_label="Mt Norquay's Via Ferrata" data-gtm_no_track="N" data-gtm_subcategory="Outdoor Recreation" data-gtm_trigger="website" data-memberid="2609" href="https://bll.fyi/2fyw" target="_blank">Mt Norquay's Via Ferrata</a>. For more on this, check out <a href="/blog/explore-mt-norquay-ferrata">Explore The Mt Norquay Via Ferrata</a>.</p>
+<p><strong>Sunshine Rock</strong></p>
+<p>This crag, located at the intersection of Healy Creek and the Sunshine Ski Area access road, offers a variety of routes graded as low as 5.6 (and upwards of 11a).</p>
+<p><strong>Black Band Area on Tunnel Mountain</strong></p>
+<p>A few 5.8 routes in the Black Band Area on the backside of Tunnel Mountain provide climbers with options that are relatively easy to access.</p>
+<h4>TAKING THINGS UP A NOTCH</h4>
+<p>Ready to try something harder? Look for easier multi-pitch routes, or tougher routes at crags, graded 5.9+ or higher.</p>
+<p><strong>Mother’s Day Buttress</strong></p>
+<p>This multi-pitch is a local favourite on Cascade Mountain (graded 5.7), usually opens up early in the season, and offers great views towards Mt. Rundle.</p>
+<p><strong>Gooseberry on Tunnel Mountain</strong></p>
+<p>Located on the east side of Tunnel Mountain, Gooseberry (5.8) is another favourite multi-pitch route. Climbers have the luxury of walking down the hikers path once they reach the top.</p>
+<p><strong>Back of the Lake – Lake Louise</strong></p>
+<p>Some of the best – and most scenic – climbing in Banff National Park can be found in the Lake Louise region. While the area features routes as easy as 5.7, this area is best suited for intermediate to advanced climbers.</p>
+<h4>TACKLING THE BIG GUYS</h4>
+<p>These multi-pitch routes may not involve particularly advanced or difficult climbing, but make for long days and challenging navigation. Do not tackle these routes without a solid skill-set using traditional rock climbing gear, or without the assistance of a certified guide. </p>
+<p><strong>Mt. Louis</strong></p>
+<p>If this limestone peak was closer to the road, there would be a million more photographs of it. There are a number of routes on this peak, which looks like a sheer vertical wall from most angles. It requires a fairly long approach, and routes vary from 5.7 to 5.10d, with many route-finding challenges along the way. </p>
+<p><strong>Grand Sentinel</strong></p>
+<p>Hikers reaching Sentinel Pass near Moraine Lake are sometimes treated to views of climbers on the Grand Sentinel, a gravity-defying spire that juts up from the other side of the pass. If you’re keen to climb it, two routes (5.9 trad or 5.10d sport) provide the way up. </p>
+<p><strong>The East Ridge of Mount Temple</strong><strong> </strong></p>
+<p>This route on one of the Rockies’ most famous peaks is known as one of the Fifty Classic Climbs of North America and is best suited to mountaineers. The route is difficult in terms of length and route-finding, while the climbing remains at an easy 5.7 or less. Some glacier travel is required.</p>
+<h4>SELECT RESOURCES</h4>
+<ul>
+<li><a href="http://www.acmg.ca/">ACMG - Association of Canadian Mountain Guides</a> [<a href="http://www.acmg.ca/">http://www.acmg.ca/</a>]</li>
+<li><a href="https://www.apple.com">TABVAR - The Association of Bow Valley Rock Climbers</a> [<a href="https://www.tabvar.org/">https://www.tabvar.org/</a>]</li>
+<li>Banff Rock: A Guidebook to Rock Climbing in Banff National Park, Canada, by Chris Perry </li>
+<li>Sport Climbs of the Canadian Rockies, 7th Edition, by John Martin and Jon Jones</li>
+<li>Canadian Rockies: Select Climbs of the West, by Kevin McLane</li>
+<li>The 11,000ers of the Canadian Rockies, by Bill Corbett</li>
+</ul>
+<p><em>*Some routes are unpublished and require Internet research or a guide. Climbing guidebooks can often be found at <a data-gtm_category="Retail" data-gtm_event_value="1" data-gtm_label="Monod Sports Ltd" data-gtm_no_track="N" data-gtm_subcategory="Sporting goods &amp; Apparel" data-gtm_trigger="website" data-memberid="2080" href="https://bll.fyi/b59h" target="_blank">Monod Sports Ltd</a> or <a data-gtm_category="Retail" data-gtm_event_value="1" data-gtm_label="Atmosphere" data-gtm_no_track="N" data-gtm_subcategory="Sporting goods &amp; Apparel" data-gtm_trigger="website" data-memberid="1974" href="http://www.atmosphere.ca" target="_blank">Atmosphere</a> in Banff. </em></p>
+<p><em>*This article uses North American climbing grades.</em></p>
+</div>
