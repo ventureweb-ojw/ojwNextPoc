@@ -12,13 +12,15 @@ export async function getStaticProps({ params }) {
   }
 
 function Posts({ posts }) {
+  //sort the posts so they display in date order
+  posts.sort((a,b) => new Date(b.params.date) - new Date(a.params.date))
 
   return (
     <ul>
       {posts.map((post) => (
         <li key={post.params.url}>
           <Link href={`/blog/${encodeURIComponent(post.params.url)}`}>
-            <a>{post.params.title}</a>
+            <a>{post.params.date} - {post.params.title}</a>
           </Link>
         </li>
       ))}

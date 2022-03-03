@@ -36,7 +36,6 @@ const Post = ({ postData }) => {
               margin: 'auto'
               }}>  
               <h1>{postData.title}</h1>
-              <p>Post: {id} - {postData.title}</p>
               <div dangerouslySetInnerHTML={{ __html: postData.content }}></div>
             </div>
           </div>
