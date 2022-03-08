@@ -12,20 +12,18 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   // Fetch necessary data for the blog post using params.id
-  const postData = getLegacyPostData(params.id)
+  const data = getLegacyPostData(params.id)
   return {
     props: {
-      postData
+      data
     }
   }
 }
 
-const Post = ({ postData }) => {
-  const router = useRouter()
-  const { id } = router.query
+const Post = ({ data }) => {
   return <div>
             <Image
-                src={postData.img} 
+                src={data.img} 
                 alt=""
                 width="2000"
                 height="1333"
@@ -35,8 +33,8 @@ const Post = ({ postData }) => {
               maxWidth: '900px',
               margin: 'auto'
               }}>  
-              <h1>{postData.title}</h1>
-              <div dangerouslySetInnerHTML={{ __html: postData.content }}></div>
+              <h1>{data.title}</h1>
+              <div dangerouslySetInnerHTML={{ __html: data.content }}></div>
             </div>
           </div>
   
